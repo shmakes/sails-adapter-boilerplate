@@ -1,8 +1,6 @@
-![image_squidhome@2x.png](http://i.imgur.com/RIvu9.png) 
+# CouchDB Adapter
 
-# BoilerplateAdapter
-
-This template exists to make it easier for you to get started writing an official adapter for Sails.js.
+Sails.js Waterline adapter for CouchDB
 
 
 ## Getting started
